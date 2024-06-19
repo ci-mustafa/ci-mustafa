@@ -17,7 +17,7 @@
 
 🌱 I’m currently learning:
 - HTML5, CSS, and JavaScript
-- Front-end frameworks like React
+- Front-end frameworks like JQuery
 - Backend frameworks like Flask
 - PostgreSQL and database management
 - API development and integration
