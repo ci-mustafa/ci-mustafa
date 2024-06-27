@@ -19,7 +19,6 @@ Currently, I am enrolled in a full-stack development bootcamp at Code Institute,
 🌱 I’m currently learning:
 - HTML5, CSS, and JavaScript
 - Front-end frameworks like JQuery
-- Backend frameworks like Flask
 - PostgreSQL and database management
 - API development and integration
 
