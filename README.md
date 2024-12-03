@@ -41,7 +41,7 @@ Currently, I am enrolled in a full-stack development bootcamp at Code Institute,
 
 ## Fun Fact
 
-⚡ Fun fact: In addition to my passion for coding, I enjoy exploring new places and learning about different cultures. I've had the opportunity to work on projects across various countries, including Turkey, New Zealand, Afghanistan, and Iran.
+⚡ Fun fact: In addition to my passion for coding, I enjoy exploring new places and learning about different cultures.
 
 
 <!---
