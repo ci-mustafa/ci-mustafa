@@ -2,8 +2,7 @@
 
 ## About Me
 
-👋 Hi there! I'm Mustafa Akbari, an experienced Python and Django developer. 
-Currently, I am enrolled in a full-stack development bootcamp at Code Institute, where I am expanding my skills in front-end technologies and full-stack development.
+👋 Hi there! I'm Mustafa Akbari, with a strong background in IT administration and database administration. Currently, I am enrolled in a full-stack development bootcamp at Code Institute, where I am enhancing my skills in web design and development. I am passionate about continuing my journey in the dynamic world of web design and bringing my technical expertise to create impactful digital solutions.
 
 ## Interests
 
